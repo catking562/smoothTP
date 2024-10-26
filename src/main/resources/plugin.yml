@@ -1,0 +1,11 @@
+name: SmoothTP
+version: '1.0-SNAPSHOT'
+main: taewookim.smoothTP.SmoothTP
+api-version: '1.21'
+
+commands:
+  asdf:
+
+permissions:
+  smoothTP.*:
+    default: op
